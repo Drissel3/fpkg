@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel1" group-title="MyChannels",القناة الأولى
+https://1hge0zf.p.wvcast.com:30002/proxy/5Vq5MAAS/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel2" group-title="MyChannels",القناة الثانية
+https://1hge0zf.p.wvcast.com:30002/proxy/5Vq5MAAS/index.m3u8
